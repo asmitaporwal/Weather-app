@@ -2,12 +2,6 @@
 
 A simple weather app built with React.js that allows users to search for weather information by location.
 
-
-## Demo
-
-Check out the live demo of the Weather App: [Link](asmitaporwal.github.io/Weather-app/)
-
-
 ## Features
 
 - **Location Search:** Users can enter a location and get the current temperature, humidity, and wind speed for that location.
